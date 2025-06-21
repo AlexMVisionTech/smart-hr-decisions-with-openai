@@ -1,0 +1,101 @@
+EmployeeID,Department,JobRole,Age,Gender,EducationLevel,YearsAtCompany,TrainingHours,PerformanceRating,Promotion Eligibility
+1001,IT,Systems Analyst,24,Female,Bachelors,4,15,5.0,True
+1002,Legal,Legal Officer,49,Male,Bachelors,9,29,3.2,False
+1003,HR,HR Manager,44,Female,Bachelors,5,6,3.1,False
+1004,Finance,Accountant,52,Male,Masters,10,32,2.9,False
+1005,IT,Systems Analyst,27,Male,Bachelors,13,38,2.4,False
+1006,Engineering,Field Engineer,27,Male,PhD,7,17,2.4,False
+1007,HR,HR Assistant,34,Female,Masters,10,24,4.4,True
+1008,HR,HR Assistant,50,Male,PhD,9,10,2.2,False
+1009,Finance,Accountant,52,Male,PhD,3,37,2.9,False
+1010,Engineering,Mechanical Engineer,27,Male,Diploma,9,39,4.5,True
+1011,Operations,Logistics Officer,32,Male,Diploma,6,9,3.2,False
+1012,Engineering,Mechanical Engineer,44,Female,Diploma,5,20,2.5,False
+1013,HR,HR Manager,25,Female,PhD,9,2,3.3,False
+1014,IT,Systems Analyst,30,Male,Bachelors,2,38,2.0,False
+1015,Legal,Legal Officer,26,Male,Bachelors,12,21,2.9,False
+1016,HR,HR Manager,50,Male,PhD,10,17,4.1,True
+1017,Legal,Legal Officer,31,Male,Diploma,15,9,5.0,True
+1018,Finance,Accountant,48,Female,Bachelors,7,5,2.7,False
+1019,Finance,Accountant,33,Female,Diploma,7,33,5.0,True
+1020,Finance,Financial Analyst,39,Female,Masters,14,7,3.3,False
+1021,Legal,Legal Officer,39,Male,Masters,2,28,3.9,False
+1022,Engineering,Field Engineer,52,Female,Bachelors,6,25,4.8,True
+1023,IT,Systems Analyst,34,Male,Bachelors,11,27,4.8,True
+1024,Legal,Legal Officer,53,Male,Bachelors,11,34,4.8,True
+1025,Legal,Legal Officer,48,Female,Bachelors,11,22,3.0,False
+1026,Engineering,Field Engineer,54,Male,Bachelors,5,19,2.6,False
+1027,Engineering,Mechanical Engineer,31,Male,PhD,1,29,3.6,False
+1028,Engineering,Field Engineer,35,Female,PhD,1,17,2.2,False
+1029,Legal,Legal Officer,52,Female,Diploma,3,6,4.4,False
+1030,Engineering,Mechanical Engineer,41,Male,Masters,14,11,4.2,True
+1031,Finance,Accountant,35,Male,Diploma,11,36,4.7,True
+1032,IT,Systems Analyst,42,Female,PhD,2,9,3.2,False
+1033,IT,Software Engineer,53,Male,Masters,4,8,4.6,True
+1034,Legal,Legal Officer,47,Male,Bachelors,4,36,4.8,True
+1035,Legal,Legal Officer,53,Female,Masters,0,24,2.0,False
+1036,Engineering,Field Engineer,30,Female,PhD,15,1,4.4,True
+1037,Finance,Accountant,36,Male,Diploma,5,1,4.8,True
+1038,Operations,Logistics Officer,26,Male,Masters,1,15,3.7,False
+1039,IT,Software Engineer,51,Female,Masters,0,36,4.5,False
+1040,Operations,Logistics Officer,37,Male,Bachelors,4,19,2.9,False
+1041,HR,HR Assistant,44,Male,PhD,7,28,3.3,False
+1042,IT,Software Engineer,55,Female,Diploma,15,18,4.4,True
+1043,Legal,Legal Officer,36,Female,PhD,11,34,3.4,False
+1044,Legal,Legal Officer,46,Female,Bachelors,4,39,3.9,True
+1045,Engineering,Mechanical Engineer,53,Male,Bachelors,2,30,4.1,False
+1046,HR,HR Assistant,34,Female,PhD,3,34,4.1,False
+1047,Legal,Legal Officer,49,Male,Masters,2,36,2.3,False
+1048,Operations,Logistics Officer,45,Female,Diploma,15,38,3.4,False
+1049,Legal,Legal Officer,52,Male,Masters,13,12,3.9,True
+1050,Engineering,Field Engineer,37,Male,Diploma,12,1,4.4,True
+1051,Engineering,Mechanical Engineer,50,Male,Diploma,11,25,2.5,False
+1052,HR,HR Assistant,40,Female,Masters,9,21,3.4,False
+1053,IT,Systems Analyst,46,Female,Diploma,0,8,3.1,False
+1054,IT,Systems Analyst,44,Female,PhD,11,24,3.5,False
+1055,Engineering,Mechanical Engineer,49,Male,Bachelors,12,14,4.4,True
+1056,Legal,Legal Officer,55,Female,Bachelors,2,10,4.6,False
+1057,HR,HR Assistant,47,Male,Masters,2,36,4.4,False
+1058,HR,HR Assistant,43,Male,Masters,2,39,2.8,False
+1059,HR,HR Assistant,34,Female,Diploma,14,24,3.0,False
+1060,Operations,Logistics Officer,35,Female,Masters,1,28,2.4,False
+1061,Finance,Accountant,48,Male,Bachelors,14,1,2.7,False
+1062,Finance,Financial Analyst,48,Male,Bachelors,9,13,2.7,False
+1063,Finance,Accountant,27,Female,Masters,0,14,3.7,False
+1064,HR,HR Assistant,31,Male,Diploma,13,15,3.7,True
+1065,Engineering,Mechanical Engineer,23,Female,PhD,6,7,4.3,True
+1066,Operations,Operations Manager,45,Male,Bachelors,11,30,2.9,False
+1067,IT,Software Engineer,27,Male,Diploma,4,30,2.9,False
+1068,Engineering,Field Engineer,34,Male,Masters,6,12,4.8,True
+1069,Engineering,Field Engineer,37,Female,Masters,12,22,2.7,False
+1070,HR,HR Manager,29,Female,Masters,14,15,2.4,False
+1071,IT,Software Engineer,22,Female,Bachelors,7,25,2.2,False
+1072,Finance,Financial Analyst,31,Female,PhD,6,30,4.6,True
+1073,Engineering,Mechanical Engineer,30,Male,Masters,0,24,4.8,False
+1074,Engineering,Field Engineer,34,Female,Masters,0,14,3.0,False
+1075,IT,Systems Analyst,40,Male,PhD,12,26,3.1,False
+1076,Legal,Legal Officer,32,Female,Bachelors,14,0,2.7,False
+1077,Engineering,Field Engineer,40,Female,PhD,6,31,2.1,False
+1078,HR,HR Manager,27,Female,Diploma,13,27,4.5,True
+1079,Legal,Legal Officer,25,Female,Bachelors,4,11,3.4,False
+1080,IT,Software Engineer,49,Male,Masters,15,36,2.9,False
+1081,Operations,Logistics Officer,45,Male,Bachelors,7,38,3.6,True
+1082,Engineering,Mechanical Engineer,25,Female,Masters,8,2,2.5,False
+1083,HR,HR Assistant,42,Male,Diploma,11,3,2.7,False
+1084,Operations,Logistics Officer,23,Male,Diploma,0,5,2.9,False
+1085,IT,Systems Analyst,28,Female,Masters,12,10,3.3,False
+1086,Finance,Accountant,48,Female,PhD,13,36,2.1,False
+1087,Engineering,Field Engineer,30,Male,Diploma,2,20,3.1,False
+1088,Engineering,Field Engineer,34,Female,Bachelors,11,7,4.5,True
+1089,IT,Systems Analyst,28,Female,Masters,1,0,2.5,False
+1090,Operations,Logistics Officer,40,Female,PhD,11,15,2.8,False
+1091,Finance,Accountant,40,Female,PhD,6,5,4.6,True
+1092,IT,Software Engineer,28,Female,PhD,0,3,3.0,False
+1093,IT,Software Engineer,54,Female,Bachelors,3,11,3.0,False
+1094,HR,HR Manager,25,Female,Bachelors,10,5,3.5,False
+1095,Engineering,Field Engineer,23,Male,Diploma,13,15,3.2,False
+1096,Engineering,Field Engineer,55,Female,PhD,3,16,3.0,False
+1097,Legal,Legal Officer,43,Male,Diploma,2,14,3.0,False
+1098,Legal,Legal Officer,43,Female,Masters,11,36,3.4,False
+1099,HR,HR Assistant,41,Female,Masters,8,17,3.5,False
+1100,IT,Systems Analyst,34,Female,Masters,11,39,4.6,True
